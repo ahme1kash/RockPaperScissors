@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: rgb(118, 196, 0);
+  background-image:linear-gradient(to left, #41a2fe, #cb8bdb);
   font-size: 16px;
   font-family: Roboto, sans-serif;
   box-sizing: border-box;
@@ -31,7 +31,7 @@ a {
   transform: translateX(-50%);
 }
 .game_header {
-  color: #fff;
+  color: #b23737;
   display: flex;
   flex-wrap: wrap;
   align-items: cneter;
